@@ -1,0 +1,12 @@
+{
+  "name": "openai-fun",
+  "version": "1.0.0",
+  "description": "a project to test openai api",
+  "main": "index.js",
+  "repository": "https://github.com/shassen/openai-fun",
+  "author": "Shawn Hassen",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.24.5"
+  }
+}
